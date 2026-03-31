@@ -1,0 +1,5 @@
+PN = int(input("Digite o primeiro numero : " ))
+SN = int(input("Digite o segundo numero : "))
+print(f"A soma desses numeros é : {PN + SN}")
+print(f"A subtração desses numeros é : {PN - SN}")
+print(f"A mutiplicação desses numeros é : {PN * SN}")
