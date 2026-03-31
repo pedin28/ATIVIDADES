@@ -1,0 +1,4 @@
+PN = int(input("Digite o primeiro numero : "))
+SN = int (input("Digite o segundo numero : "))
+soma = PN + SN
+print (f"A soma dos numeros são :{soma}")
