@@ -1,0 +1,4 @@
+N= float(input("Me fale um numero : "))
+print(f"O dobro do seu numero é {N*2}")
+print(f"O triplo do seu numero é {N*3}")
+print(f"O quadrado do seu numero é {N*4}")
