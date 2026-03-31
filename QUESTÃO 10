@@ -1,0 +1,4 @@
+VP = float(input("digite o valor do produto : "))
+QP = int(input("Digite a quantidade de produtos comprados : "))
+VC = VP * QP
+print(f"O valor da compra é {VC} $")
