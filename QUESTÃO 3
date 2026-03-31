@@ -1,0 +1,2 @@
+nome = ("João Pedro Pinheiro Araujo")
+print (f"meu nome é : {nome}")
