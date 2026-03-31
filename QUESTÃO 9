@@ -1,0 +1,4 @@
+L=float(input("Digite a largura : "))
+A=float(input("digite a altura : "))
+A= L*A
+print(f"A área do retangulo é : {A}")
